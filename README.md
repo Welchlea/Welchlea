@@ -36,3 +36,7 @@ I design conversations for government digital services and regulated financial s
 - Content and conversation design: government and financial services
 - AI ethics and governance: Oxford Saïd Business School
 - Structured content modelling
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/leawelch)

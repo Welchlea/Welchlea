@@ -1,6 +1,4 @@
-# Lea Welch
-
-**Conversation designer. I design, test and measure how AI services talk to people.**
+![Lea Welch. Conversation designer. I design, test and measure how AI services talk to people.](banner.png)
 
 I design conversations for government digital services and regulated financial services. My focus now is evals: turning "what good looks like" into checks that run every time a prompt or a flow changes.
 
